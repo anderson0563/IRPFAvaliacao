@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IRPFAvaliacao</string>
+    <string name="texto1">rendimentos tributáveis</string>
+    <string name="texto2">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="texto3">rendimentos não tributáveis</string>
+    <string name="texto4">rendimentos sujeitos à tributação exclusiva</string>
+    <string name="texto5">Informe o nome</string>
+    <string name="texto6">acima de R$ 28.559,70</string>
+    <string name="texto7">Informe o CPF</string>
+    <string name="texto8">Exemplos: Poupança, LCI e LCA.</string>
+    <string name="texto9">Exemplo: 13º salário.</string>
+    <string name="texto10">Enviar para a Receita Federal</string>
+</resources>
